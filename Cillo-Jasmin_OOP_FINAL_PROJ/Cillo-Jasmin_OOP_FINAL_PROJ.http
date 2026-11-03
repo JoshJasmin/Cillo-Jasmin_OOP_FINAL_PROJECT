@@ -1,0 +1,6 @@
+@Cillo_Jasmin_OOP_FINAL_PROJ_HostAddress = http://localhost:5219
+
+GET {{Cillo_Jasmin_OOP_FINAL_PROJ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
