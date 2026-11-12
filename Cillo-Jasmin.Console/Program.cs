@@ -1,9 +1,13 @@
 ﻿using System;
+using Cillo_Jasmin_Console;
 
-namespace Cillo_Jasmin.Console
+namespace Cillo_Jasmin_Console
 {
-    class Program
+    internal class Program
     {
-
+        static void Main(string[] args)
+        {
+            MainMenu.Run();
+        }
     }
-}
+};

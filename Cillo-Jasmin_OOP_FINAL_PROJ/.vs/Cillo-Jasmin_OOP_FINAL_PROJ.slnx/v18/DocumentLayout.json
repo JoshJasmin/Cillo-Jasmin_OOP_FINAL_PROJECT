@@ -1,51 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\interfaces\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:interfaces\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAB49465-AAF4-DEAB-E164-CBE7A25633FF}|..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin.console\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\interfaces\\inetworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:interfaces\\inetworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\models\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\models\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\models\\peripheral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\peripheral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAB49465-AAF4-DEAB-E164-CBE7A25633FF}|..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\models\\networkinghardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\networkinghardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\interfaces\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:interfaces\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\models\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\models\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\models\\peripheral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\peripheral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AA5198-BF72-4409-9FA6-7F76A127B35D}|..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin.console\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\models\\networkinghardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\networkinghardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AA5198-BF72-4409-9FA6-7F76A127B35D}|..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAB49465-AAF4-DEAB-E164-CBE7A25633FF}|..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin.console\\cillo-jasmin.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\properties\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:properties\\campusasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\source\\repos\\cillo-jasmin_oop_final_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682D9D18-5E71-4F7E-A9EC-6E2FAECBA1AC}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|c:\\users\\angel\\onedrive\\documents\\github\\cillo-jasmin_oop_final_project\\cillo-jasmin_oop_final_proj\\interfaces\\inetworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A153F-05CD-4F14-25F3-FB7B3FFB0417}|Cillo-Jasmin_OOP_FINAL_PROJ.csproj|solutionrelative:interfaces\\inetworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Properties\\CampusAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\CampusAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,163 +64,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "INetworkable.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\INetworkable.cs",
-              "RelativeDocumentMoniker": "Interfaces\\INetworkable.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\INetworkable.cs",
-              "RelativeToolTip": "Interfaces\\INetworkable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:50:52.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IBorrowable.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\IBorrowable.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IBorrowable.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\IBorrowable.cs",
-              "RelativeToolTip": "Interfaces\\IBorrowable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "RelativeToolTip": "..\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:50:36.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SoftwareLicense.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\SoftwareLicense.cs",
-              "RelativeDocumentMoniker": "Models\\SoftwareLicense.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\SoftwareLicense.cs",
-              "RelativeToolTip": "Models\\SoftwareLicense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:43:22.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Peripheral.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\Peripheral.cs",
-              "RelativeDocumentMoniker": "Models\\Peripheral.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\Peripheral.cs",
-              "RelativeToolTip": "Models\\Peripheral.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:43:01.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NetworkingHardware.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\NetworkingHardware.cs",
-              "RelativeDocumentMoniker": "Models\\NetworkingHardware.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\NetworkingHardware.cs",
-              "RelativeToolTip": "Models\\NetworkingHardware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:42:44.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WorkStation.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\WorkStation.cs",
-              "RelativeDocumentMoniker": "Models\\WorkStation.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\WorkStation.cs",
-              "RelativeToolTip": "Models\\WorkStation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:42:29.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CampusAsset.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\CampusAsset.cs",
-              "RelativeDocumentMoniker": "Models\\CampusAsset.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\CampusAsset.cs",
-              "RelativeToolTip": "Models\\CampusAsset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:41:42.832Z",
+              "WhenOpened": "2026-11-09T06:49:56.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
-              "RelativeDocumentMoniker": "..\\Cillo-Jasmin.Console\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
-              "RelativeToolTip": "..\\Cillo-Jasmin.Console\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "NetworkingHardware.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\NetworkingHardware.cs",
+              "RelativeDocumentMoniker": "Models\\NetworkingHardware.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\NetworkingHardware.cs",
+              "RelativeToolTip": "Models\\NetworkingHardware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:41:09.894Z",
+              "WhenOpened": "2026-11-03T07:42:44.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Peripheral.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\Peripheral.cs",
+              "RelativeDocumentMoniker": "Models\\Peripheral.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\Peripheral.cs",
+              "RelativeToolTip": "Models\\Peripheral.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:43:01.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CampusAsset.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Properties\\CampusAsset.cs",
+              "RelativeDocumentMoniker": "Properties\\CampusAsset.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Properties\\CampusAsset.cs",
+              "RelativeToolTip": "Properties\\CampusAsset.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T06:52:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBorrowable.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\IBorrowable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBorrowable.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\IBorrowable.cs",
+              "RelativeToolTip": "Interfaces\\IBorrowable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:50:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CampusAsset.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\CampusAsset.cs",
+              "RelativeDocumentMoniker": "Models\\CampusAsset.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\CampusAsset.cs",
+              "RelativeToolTip": "Models\\CampusAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:41:42.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T06:51:23.563Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoftwareLicense.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\SoftwareLicense.cs",
+              "RelativeDocumentMoniker": "Models\\SoftwareLicense.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\SoftwareLicense.cs",
+              "RelativeToolTip": "Models\\SoftwareLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:43:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cillo-Jasmin.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\Program.cs",
+              "RelativeToolTip": "..\\Cillo-Jasmin.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T06:50:07.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Cillo-Jasmin.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
-              "RelativeToolTip": "..\\Cillo-Jasmin.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T07:39:53.922Z",
-              "EditorCaption": ""
+              "Title": "Cillo-Jasmin.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
+              "RelativeDocumentMoniker": "..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
+              "RelativeToolTip": "..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T05:40:23.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CampusAsset.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Properties\\CampusAsset.cs",
-              "RelativeDocumentMoniker": "Properties\\CampusAsset.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Properties\\CampusAsset.cs",
-              "RelativeToolTip": "Properties\\CampusAsset.cs",
+              "Title": "WorkStation.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\WorkStation.cs",
+              "RelativeDocumentMoniker": "Models\\WorkStation.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Models\\WorkStation.cs",
+              "RelativeToolTip": "Models\\WorkStation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:42:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INetworkable.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\INetworkable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INetworkable.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin_OOP_FINAL_PROJ\\Interfaces\\INetworkable.cs",
+              "RelativeToolTip": "Interfaces\\INetworkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:50:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Cillo-Jasmin.Console\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:41:09.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Cillo-Jasmin.Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T06:52:59.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T07:39:53.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
               "ToolTip": "C:\\Users\\angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4122945e-bb79-4b2a-b11a-0c3ea557eeab\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-03T06:51:58.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\angel\\source\\repos\\Cillo-Jasmin_OOP_FINAL_PROJ\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T06:51:23.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:51:58.855Z"
             }
           ]
         }

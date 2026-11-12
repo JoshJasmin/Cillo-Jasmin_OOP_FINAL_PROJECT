@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Cillo-Jasmin_OOP_FINAL_PROJ.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

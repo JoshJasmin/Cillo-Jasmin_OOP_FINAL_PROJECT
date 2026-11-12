@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cillo-Jasmin.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63504473b9213ce2d92fdd2e281855423cc3aa1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cillo-Jasmin.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cillo-Jasmin.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
