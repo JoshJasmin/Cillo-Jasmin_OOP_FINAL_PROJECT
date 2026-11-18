@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cillo-Jasmin_OOP_FINAL_PROJ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63504473b9213ce2d92fdd2e281855423cc3aa1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f585732e87e780f31a3ce00f5cc6cf6eb39177a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cillo-Jasmin_OOP_FINAL_PROJ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cillo-Jasmin_OOP_FINAL_PROJ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,9 +4,8 @@
     {
         public int MonthsRemaining { get; set; }
 
-        // THIS IS THE FIX: A constructor that takes 4 arguments
         public SoftwareLicense(string assetTag, decimal purchasePrice, string modelName, int monthsRemaining)
-            : base(assetTag, purchasePrice, modelName) // Pass the first 3 to CampusAsset
+            : base(assetTag, purchasePrice, modelName)
         {
             MonthsRemaining = monthsRemaining;
         }

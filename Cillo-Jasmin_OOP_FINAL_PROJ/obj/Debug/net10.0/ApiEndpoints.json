@@ -1,1 +1,237 @@
-[]
+[
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Assets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "Add",
+    "RelativePath": "api/Assets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AddAssetRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "Get",
+    "RelativePath": "api/Assets/{tag}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "Delete",
+    "RelativePath": "api/Assets/{tag}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "CheckIn",
+    "RelativePath": "api/Assets/{tag}/checkin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "CheckOut",
+    "RelativePath": "api/Assets/{tag}/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.BorrowerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "AssignNetwork",
+    "RelativePath": "api/Assets/{tag}/network",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.NetworkRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Assets/{tag}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.StatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "GetCheckedOut",
+    "RelativePath": "api/Assets/checkedout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "TotalDepreciation",
+    "RelativePath": "api/Assets/depreciation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "FilterByStatus",
+    "RelativePath": "api/Assets/filter/{status}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "GetNetworkDevices",
+    "RelativePath": "api/Assets/network-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "PersistPath",
+    "RelativePath": "api/Assets/persist-path",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "Search",
+    "RelativePath": "api/Assets/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "q",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "StatusSummary",
+    "RelativePath": "api/Assets/status-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cillo_Jasmin_OOP_FINAL_PROJ.Controllers.AssetsController",
+    "Method": "FilterByType",
+    "RelativePath": "api/Assets/type/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

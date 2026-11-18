@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iaVcAOGuSLQ=",
+  "dgSpecHash": "hioPxlTX7wE=",
   "success": true,
   "projectFilePath": "C:\\Users\\angel\\OneDrive\\Documents\\GITHUB\\Cillo-Jasmin_OOP_FINAL_PROJECT\\Cillo-Jasmin.Console\\Cillo-Jasmin.Console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\11.0.1\\swashbuckle.aspnetcore.swagger.11.0.1.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\11.0.1\\swashbuckle.aspnetcore.swaggergen.11.0.1.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.1\\swashbuckle.aspnetcore.swaggerui.11.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

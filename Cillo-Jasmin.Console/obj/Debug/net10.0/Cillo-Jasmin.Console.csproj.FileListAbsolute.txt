@@ -23,3 +23,8 @@ C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Ja
 C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\obj\Debug\net10.0\Cillo-Jasmin.Console.pdb
 C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\obj\Debug\net10.0\Cillo-Jasmin.Console.genruntimeconfig.cache
 C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\obj\Debug\net10.0\ref\Cillo-Jasmin.Console.dll
+C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\OneDrive\Documents\GITHUB\Cillo-Jasmin_OOP_FINAL_PROJECT\Cillo-Jasmin.Console\bin\Debug\net10.0\JsonAssetStorage.json

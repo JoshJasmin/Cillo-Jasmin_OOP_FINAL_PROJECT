@@ -1,0 +1,4 @@
+[
+  {"type":"peripheral","assetTag":"P-001","purchasePrice":150,"modelName":"MediaTek","status":"Available","isCheckedOut":false,"borrowerId":""},
+  {"type":"workstation","assetTag":"WS-001","purchasePrice":1500,"modelName":"Huawei 125","status":"Available","ipAddress":"192.168.2.21","macAddress":"A1:BB:CC:DD:EE:FF","isCheckedOut":false,"borrowerId":""}
+]

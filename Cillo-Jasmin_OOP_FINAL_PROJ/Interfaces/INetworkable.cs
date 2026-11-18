@@ -4,6 +4,7 @@
     {
         string IpAddress { get; set; }
         string MacAddress { get; set; }
+
         void AssignNetworkDetails(string ip, string mac);
     }
-};
+}   
